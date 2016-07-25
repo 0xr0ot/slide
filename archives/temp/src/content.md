@@ -11,6 +11,16 @@
 
 # hilo
 
+chat
+
+robot
+
+berry pi
+
+arm7 
+
+performance
+
 [alibaba/macaca](https://github.com/alibaba/macaca)
 
 - - -
